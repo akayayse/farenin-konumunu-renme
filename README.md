@@ -1,0 +1,1 @@
+# farenin-konumunu-renme
